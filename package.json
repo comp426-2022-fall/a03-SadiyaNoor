@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a03-SadiyaNoor/issues"
   },
-  "homepage": "https://github.com/comp426-2022-fall/a03-SadiyaNoor#readme"
+  "homepage": "https://github.com/comp426-2022-fall/a03-SadiyaNoor#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
 }
