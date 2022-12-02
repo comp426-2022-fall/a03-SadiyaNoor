@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/comp426-2022-fall/a03-SadiyaNoor.git"
   },
   "author": "SadiyaNoor",
